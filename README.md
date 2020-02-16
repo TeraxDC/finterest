@@ -1,4 +1,6 @@
 # finterest
+mongodb://34.66.89.251:80/finterest
+
 
 ##Creé un método estático simple.
 
